@@ -1,0 +1,52 @@
+2023-10-28T04:28:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2692
+2023-10-28T04:28:15+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T04:29:53+00:00 NOTICE order_process :: Order #2692 skipped, user #2 user role is not in the list
+2023-10-28T16:02:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2431
+2023-10-28T16:02:47+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2431
+2023-10-28T16:03:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2431
+2023-10-28T16:04:06+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2431
+2023-10-28T16:04:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2431
+2023-10-28T16:04:15+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2431
+2023-10-28T21:39:21+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2432
+2023-10-28T21:39:43+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T21:39:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2692
+2023-10-28T21:39:43+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T21:39:52+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T21:39:52+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T21:39:52+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T21:39:53+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T21:39:53+00:00 NOTICE debug :: Order ID 2692 was checkout-draft and is now pending :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2023-10-28T21:39:58+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T21:39:58+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T21:40:00+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2432
+2023-10-28T21:41:49+00:00 NOTICE order_process :: Order #2692 skipped, user #2 user role is not in the list
+2023-10-28T22:42:13+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T22:42:13+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2692
+2023-10-28T22:42:13+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T22:42:41+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T22:42:41+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T22:44:11+00:00 NOTICE order_process :: Order #2692 skipped, user #2 user role is not in the list
+2023-10-28T22:44:19+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2764
+2023-10-28T22:44:19+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T22:44:28+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T22:44:28+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T22:44:28+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T22:44:28+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T22:44:28+00:00 NOTICE debug :: Order ID 2764 was checkout-draft and is now pending :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2023-10-28T22:44:32+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T22:44:32+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T22:44:37+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T22:44:37+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T22:44:45+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T22:44:45+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-28T22:45:49+00:00 NOTICE order_process :: Order #2764 skipped, user #2 user role is not in the list

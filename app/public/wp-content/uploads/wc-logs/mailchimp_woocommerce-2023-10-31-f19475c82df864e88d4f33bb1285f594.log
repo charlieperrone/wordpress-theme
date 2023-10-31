@@ -1,0 +1,9 @@
+2023-10-31T02:09:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 4cb8bacb9a80a3fa15492bc1e7ee05f0
+2023-10-31T02:09:52+00:00 NOTICE abandoned_cart.success :: email: mitchellvf@gmail.com :: checkout_url: https://hillcresthotsauce-d20279439d3fd26f1303-20231028025.local/hillcrest-hot-sauce-checkout/?mc_cart_id=4cb8bacb9a80a3fa15492bc1e7ee05f0
+2023-10-31T02:09:52+00:00 NOTICE cart.member.updated :: Updated mitchellvf@gmail.com subscriber status to subscribed and language to en
+2023-10-31T02:16:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2804
+2023-10-31T02:16:32+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-31T02:17:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2805
+2023-10-31T02:17:50+00:00 NOTICE handleOrderUpdate :: order_status
+2023-10-31T02:18:15+00:00 NOTICE order_process :: Order #2804 skipped, user #2 user role is not in the list
+2023-10-31T02:19:41+00:00 NOTICE order_process :: Order #2805 skipped, user #2 user role is not in the list

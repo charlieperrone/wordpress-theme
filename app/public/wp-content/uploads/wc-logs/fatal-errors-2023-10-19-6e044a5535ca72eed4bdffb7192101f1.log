@@ -1,0 +1,13 @@
+2023-10-19T18:53:08+00:00 CRITICAL Uncaught Error: Class 'WooCommerce\Facebook\Admin\Tasks\Setup' not found in /home1/mitchfk4/public_html/wp-content/plugins/facebook-for-woocommerce/class-wc-facebookcommerce.php:295
+Stack trace:
+#0 /home1/mitchfk4/public_html/wp-includes/class-wp-hook.php(310): WC_Facebookcommerce->add_setup_task('')
+#1 /home1/mitchfk4/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/mitchfk4/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home1/mitchfk4/public_html/wp-settings.php(632): do_action('init')
+#4 /home1/mitchfk4/public_html/wp-config.php(96): require_once('/home1/mitchfk4...')
+#5 /home1/mitchfk4/public_html/wp-load.php(50): require_once('/home1/mitchfk4...')
+#6 /home1/mitchfk4/public_html/wp-blog-header.php(13): require_once('/home1/mitchfk4...')
+#7 /home1/mitchfk4/public_html/index.php(17): require('/home1/mitchfk4...')
+#8 {main}
+  thrown in /home1/mitchfk4/public_html/wp-content/plugins/facebook-for-woocommerce/class-wc-facebookcommerce.php on line 295
+

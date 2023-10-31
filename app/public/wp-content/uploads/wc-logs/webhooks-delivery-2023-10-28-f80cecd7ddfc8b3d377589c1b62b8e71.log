@@ -1,0 +1,399 @@
+2023-10-28T16:02:46+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 95905a4d869bffa638c4de58a740904e
+            [Date] => Oct 28, 2023 @ 16:02
+            [URL] => https://api.printful.com/hook/woocommerce?store=7611727
+            [Duration] => 0.36232
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.2.1 Hookshot (WordPress/6.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://hillcresthotsauce-d20279439d3fd26f1303-20231028025.local/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => AWWJLEqdrsm57bYB4m9Es6WeMHvPErH5AkzpQia4LuE=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => 95905a4d869bffa638c4de58a740904e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Sat, 28 Oct 2023 16:02:46 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=jPkoF3h_nGyFQX_WzbGEmE6eooipXd3l2xiR20n2cKE-1698508966-0-Aaa1iS2mHLHOfNhZjzMnHX0InpLuHq0lWfMt4yz5MP6MJg2M+xxKfknIPCVkySpK7GTd0rJQp16AZewdn9RoK9o=; path=/; expires=Sat, 28-Oct-23 16:32:46 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 81d467aeda526a50-EWR
+                                    [content-encoding] => gzip
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-10-28T16:04:06+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 44b25798baee9376ede06d7e1e2b3cf3
+            [Date] => Oct 28, 2023 @ 16:04
+            [URL] => https://api.printful.com/hook/woocommerce?store=7611727
+            [Duration] => 0.69245
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.2.1 Hookshot (WordPress/6.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://hillcresthotsauce-d20279439d3fd26f1303-20231028025.local/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => +qsFmV7Nt1R026EVEgyV5ljIKcFs8y4GYOJA/Ot78xg=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => 44b25798baee9376ede06d7e1e2b3cf3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Sat, 28 Oct 2023 16:04:06 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=OLzuBaSdSguGui.YyU4vw2A9FVKG_XN8cJhP3R9r8Hk-1698509046-0-AW2stsA+NgSVKx6r9ZRwjHyvq5tHliGSi5VIuAVyvZytsNfFa6SEg9oB3opiESJj/iPC8dMdOW85NmvX9w7oS4s=; path=/; expires=Sat, 28-Oct-23 16:34:06 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 81d469a02e674400-EWR
+                                    [content-encoding] => gzip
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-10-28T16:04:09+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 9b702691e4a500c455aecaf98a7ef625
+            [Date] => Oct 28, 2023 @ 16:04
+            [URL] => https://api.printful.com/hook/woocommerce?store=7611727
+            [Duration] => 0.54321
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.2.1 Hookshot (WordPress/6.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://hillcresthotsauce-d20279439d3fd26f1303-20231028025.local/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => gQjsh3VZqXELtXsUSBYw7ublwIZu+qJM6YLAgfdtM9g=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => 9b702691e4a500c455aecaf98a7ef625
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Sat, 28 Oct 2023 16:04:09 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=WpYkZ3tdVtbU1zm1QmvQHu76VpHDGgZt83ACqWTw9.g-1698509049-0-AVOwdwpSkzkGfI12Ovlcks2TifoUFXCMWfqMgndkYl11UW+SiMahyhy/oELuQKcAbjEVzsc2NSiQwWmEa/71Z8c=; path=/; expires=Sat, 28-Oct-23 16:34:09 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 81d469b62b6d4331-EWR
+                                    [content-encoding] => gzip
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-10-28T16:04:20+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => b60add3fa4d59c619a3d959781fb2889
+            [Date] => Oct 28, 2023 @ 16:04
+            [URL] => https://api.printful.com/hook/woocommerce?store=7611727
+            [Duration] => 0.30382
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.2.1 Hookshot (WordPress/6.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://hillcresthotsauce-d20279439d3fd26f1303-20231028025.local/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => UpqG5bmXnMSvobygJIW8aVD167tNMOeFjHr1lp769yc=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => b60add3fa4d59c619a3d959781fb2889
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Sat, 28 Oct 2023 16:04:20 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=UP5cBaSQxDZ4ngW4nWh2AlKoIvUG4g.KC_G54PuEhGQ-1698509060-0-AYDGzlLzLOzfqhHQkoQxrMzjojL3v+A9V9KSYD8H659/NwuPhOz9CDYopaxS3SH5vkfTdUcq7lm6DivQ0wh6BfU=; path=/; expires=Sat, 28-Oct-23 16:34:20 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 81d469fc8eeb43ee-EWR
+                                    [content-encoding] => gzip
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-10-28T16:05:19+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 4df9d739bbf80c43cc2a6ef782014b1a
+            [Date] => Oct 28, 2023 @ 16:05
+            [URL] => https://api.printful.com/hook/woocommerce?store=7611727
+            [Duration] => 0.34045
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.2.1 Hookshot (WordPress/6.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://hillcresthotsauce-d20279439d3fd26f1303-20231028025.local/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => VCgr0zMEmpOskn4wwOPeV714ktINrKaKA9vyRpx0KZg=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => 4df9d739bbf80c43cc2a6ef782014b1a
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Sat, 28 Oct 2023 16:05:19 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=WhlvitkGr2rc.MJQSwa4vKg6mk2XzGzd8aVhzzMOa9w-1698509119-0-AZSo9IYOzlP8qGGx5E/tsOCuRLvQlduXdwAYEKGpOiOVoflP7OyJxxCGurGWPftQWfQBUHVi45UULgwMA5IIYLY=; path=/; expires=Sat, 28-Oct-23 16:35:19 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 81d46b694baa4325-EWR
+                                    [content-encoding] => gzip
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-10-28T21:37:50+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 986148f52a5e33cc4426def715d8c410
+            [Date] => Oct 28, 2023 @ 21:37
+            [URL] => https://api.printful.com/hook/woocommerce?store=7611727
+            [Duration] => 0.62874
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.2.1 Hookshot (WordPress/6.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://hillcresthotsauce-d20279439d3fd26f1303-20231028025.local/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => orTwrdyMwxt/abjleDmOSymnCxF8+VPJ+nHBWbXzQXU=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => 986148f52a5e33cc4426def715d8c410
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Sat, 28 Oct 2023 21:37:50 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=hFZpym74Gi1IT4gpCJBaOlJc0wgGuEJg.6YPdL4GYK0-1698529070-0-AbE+yuRqYirjFuEC6h1m35CqYw/4KsPn/7HtU0RqY/YA/UhQBgFMroLxAnNgMbGsJHy+jeEyuYMxv5c030QyzuM=; path=/; expires=Sat, 28-Oct-23 22:07:50 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 81d652822d6c5e6d-EWR
+                                    [content-encoding] => gzip
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-10-28T21:39:59+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => d1f8c7ab9e13cd22a48cb0778c0ead59
+            [Date] => Oct 28, 2023 @ 21:39
+            [URL] => https://api.printful.com/hook/woocommerce?store=7611727
+            [Duration] => 0.40669
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.2.1 Hookshot (WordPress/6.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://hillcresthotsauce-d20279439d3fd26f1303-20231028025.local/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => opJzIXUrdfW3WE+FFzMY3t+6UE20qOyBSAhG1OMcziU=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => d1f8c7ab9e13cd22a48cb0778c0ead59
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Sat, 28 Oct 2023 21:39:59 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=A3ySa3TgfiAUbSoGJk_gacciftxRL6umHXmHfsBuDF0-1698529199-0-ASRjuA6S/J26WHnGPlBN8zyw9BwjbUo7xgC+ptsgwiN/XeRcGqj9XQekxMIiReO7MzTjD1LDU6KYvZOZ3qtYfWs=; path=/; expires=Sat, 28-Oct-23 22:09:59 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 81d655a55ff01815-EWR
+                                    [content-encoding] => gzip
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+

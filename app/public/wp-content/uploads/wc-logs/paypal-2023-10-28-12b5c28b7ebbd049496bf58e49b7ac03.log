@@ -1,0 +1,104 @@
+2023-10-28T21:39:53+00:00 INFO Generating payment form for order 2692. Notify URL: https://hillcresthotsauce-d20279439d3fd26f1303-20231028025.local/wc-api/WC_Gateway_Paypal/
+2023-10-28T21:39:53+00:00 INFO PayPal Request Args for order 2692: Array
+(
+    [cmd] => _cart
+    [business] => mitchellvf2@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 2
+    [upload] => 1
+    [return] => https://hillcresthotsauce-d20279439d3fd26f1303-20231028025.local/hillcrest-hot-sauce-checkout/order-received/2692/?key=wc_order_UPdMjqr2YaPlm&utm_nooverride=1
+    [cancel_return] => https://hillcresthotsauce-d20279439d3fd26f1303-20231028025.local/hillcrest-hot-sauce-cart/?cancel_order=true&order=wc_order_UPdMjqr2YaPlm&order_id=2692&redirect&_wpnonce=bede1c6b03
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-2692
+    [custom] => {"order_id":2692,"order_key":"wc_order_UPdMjqr2YaPlm"}
+    [notify_url] => https://hillcresthotsauce-d20279439d3fd26f1303-20231028025.local/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 7.95
+    [item_name_1] => King of Carolina Reaper
+    [quantity_1] => 2
+    [amount_1] => 5.95
+    [item_number_1] => 
+    [item_name_2] => Bundle Pack - Jalapeno, Cayenne, Habanero, Carolina Reaper
+    [quantity_2] => 1
+    [amount_2] => 19.5
+    [item_number_2] => 
+    [item_name_3] => King of Habanero
+    [quantity_3] => 1
+    [amount_3] => 5.95
+    [item_number_3] => 
+    [item_name_4] => King of Jalapeno
+    [quantity_4] => 1
+    [amount_4] => 4.95
+    [item_number_4] => 
+    [bn] => WooThemes_Cart
+)
+
+2023-10-28T22:44:28+00:00 INFO Generating payment form for order 2764. Notify URL: https://hillcresthotsauce-d20279439d3fd26f1303-20231028025.local/wc-api/WC_Gateway_Paypal/
+2023-10-28T22:44:28+00:00 INFO PayPal Request Args for order 2764: Array
+(
+    [cmd] => _cart
+    [business] => mitchellvf2@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 2
+    [upload] => 1
+    [return] => https://hillcresthotsauce-d20279439d3fd26f1303-20231028025.local/hillcrest-hot-sauce-checkout/order-received/2764/?key=wc_order_VPpdOlhGex20V&utm_nooverride=1
+    [cancel_return] => https://hillcresthotsauce-d20279439d3fd26f1303-20231028025.local/hillcrest-hot-sauce-cart/?cancel_order=true&order=wc_order_VPpdOlhGex20V&order_id=2764&redirect&_wpnonce=bede1c6b03
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-2764
+    [custom] => {"order_id":2764,"order_key":"wc_order_VPpdOlhGex20V"}
+    [notify_url] => https://hillcresthotsauce-d20279439d3fd26f1303-20231028025.local/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 7.95
+    [item_name_1] => King of Carolina Reaper
+    [quantity_1] => 2
+    [amount_1] => 5.95
+    [item_number_1] => 
+    [item_name_2] => Bundle Pack - Jalapeno, Cayenne, Habanero, Carolina Reaper
+    [quantity_2] => 1
+    [amount_2] => 19.5
+    [item_number_2] => 
+    [item_name_3] => King of Habanero
+    [quantity_3] => 1
+    [amount_3] => 5.95
+    [item_number_3] => 
+    [item_name_4] => King of Jalapeno
+    [quantity_4] => 1
+    [amount_4] => 4.95
+    [item_number_4] => 
+    [bn] => WooThemes_Cart
+)
+

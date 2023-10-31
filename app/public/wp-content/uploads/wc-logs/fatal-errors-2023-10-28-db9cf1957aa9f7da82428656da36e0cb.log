@@ -1,0 +1,22 @@
+2023-10-28T22:44:12+00:00 CRITICAL Uncaught WCPay\Exceptions\API_Exception: Error: Accounts do not currently support `card_payments` without `transfers`. Please visit https://stripe.com/docs/connect/account-capabilities#card-payments for more details. in /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-content/plugins/woocommerce-payments/includes/wc-payment-api/class-wc-payments-api-client.php:1944
+Stack trace:
+#0 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-content/plugins/woocommerce-payments/includes/wc-payment-api/class-wc-payments-api-client.php(1770): WC_Payments_API_Client->check_response_for_errors(Array)
+#1 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-content/plugins/woocommerce-payments/includes/wc-payment-api/class-wc-payments-api-client.php(841): WC_Payments_API_Client->request(Array, 'accounts/capabi...', 'POST', true, true)
+#2 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-content/plugins/woocommerce-payments/includes/admin/class-wc-rest-payments-settings-controller.php(647): WC_Payments_API_Client->request_capability('card_payments', true)
+#3 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-content/plugins/woocommerce-payments/includes/admin/class-wc-rest-payments-settings-controller.php(628): WC_REST_Payments_Settings_Controller->request_unrequested_payment_methods(Array)
+#4 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-content/plugins/woocommerce-payments/includes/admin/class-wc-rest-payments-settings-controller.php(532): WC_REST_Payments_Settings_Controller->update_enabled_payment_methods(Object(WP_REST_Request))
+#5 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-includes/rest-api/class-wp-rest-server.php(1194): WC_REST_Payments_Settings_Controller->update_settings(Object(WP_REST_Request))
+#6 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/payments...', Array, NULL)
+#7 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#8 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-includes/rest-api.php(418): WP_REST_Server->serve_request('/wc/v3/payments...')
+#9 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-includes/class-wp-hook.php(310): rest_api_loaded(Object(WP))
+#10 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#11 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#12 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-includes/class-wp.php(398): do_action_ref_array('parse_request', Array)
+#13 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-includes/class-wp.php(779): WP->parse_request('')
+#14 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-includes/functions.php(1335): WP->main('')
+#15 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-blog-header.php(16): wp()
+#16 /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/index.php(17): require('/Users/charlie/...')
+#17 {main}
+  thrown in /Users/charlie/Local Sites/hillcresthotsauce-d20279439d3fd26f1303-20231028025/app/public/wp-content/plugins/woocommerce-payments/includes/wc-payment-api/class-wc-payments-api-client.php on line 1944
+
